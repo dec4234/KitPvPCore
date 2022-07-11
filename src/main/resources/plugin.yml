@@ -1,0 +1,19 @@
+name: sKitPvP
+version: ${project.version}
+main: net.dec4234.src.KitPvPCoreMain
+prefix: sKPvP
+authors: [ dec4234 ]
+description: KitPvP Core plugin
+website: https://babydino.net/
+depend:
+  - sCore
+softdepend:
+  - CrateReloaded
+  - PlaceholderAPI
+commands:
+  adminbooster:
+    description: Admins can manage a player's boosters with this command
+    usage: /adminbooster <playername> <amount> <multiplier> <length>
+  adminitems:
+    description: Admins can give players custom items included in the KitPvP Core
+    usage: /adminitems <playername> <amount> <item_identifier>

@@ -1,0 +1,30 @@
+killstreak-announcement: '&6$player_name$ &ahas achieved a killstreak of &d$killstreak$'
+bounty-claim-announcement: '&d$killer_name$ &bhas claimed a bounty of &a$$bounty$ &bon &6$player_name$'
+level-up-announcement: '&d&kL &aCongratulations &e$player_name$ &ayou are now level &b$level_number$ &d&kL'
+
+# When a user uses the bounty command, this is the annoucement to the entire server
+bounty-put-announcement: '&a$player_name$ &ehas added &d$$bounty_amount$ &eto &b$bountyd_name$ &etheir bounty is now &d$$total_bounty$'
+# If the user they put a bounty on did not have an exisiting bounty, use this announcement
+bounty-put-announcement-when-0: '&a$player_name$ &ehas put a bounty of &d$$bounty_amount$ &eonto &b$bountyd_name$'
+
+# Booster countdown message
+booster-timer: '&bx$booster_multiplier$ &6XP Booster '
+booster-hours-prefix: ' &b'
+booster-hours-suffix: ' &6Hours &b'
+booster-minutes-suffix: ' &cMinutes &b'
+booster-seconds-suffix: ' &6Seconds'
+
+# Kill-key Crate ID (Disabled if left blank)
+kill-key-crate: ''
+
+# The top 10 users with the highest levelXP (Don't touch) Updates every 5 minutes
+number1: ''
+number2: ''
+number3: ''
+number4: ''
+number5: ''
+number6: ''
+number7: ''
+number8: ''
+number9: ''
+number10: ''
