@@ -15,4 +15,6 @@ Some features:
 
 [An upgrades system](https://github.com/dec4234/KitPvPCore/blob/main/src/main/java/net/dec4234/guis/content/upgrades/UpgradesRolling.java) which allowed users to get certain effects when they got a kill such as regeneration, speed, etc. This also gives them the appropriate amount of Combat XP.
 
+[A customizable config](https://github.com/dec4234/KitPvPCore/blob/main/src/main/resources/config.yml) which allowed the owner to change kill feed information. Supports PlaceholdersAPI.
+
 Among other things
